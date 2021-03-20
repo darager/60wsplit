@@ -1,5 +1,4 @@
 # 60wsplit
-60wsplit
 
 A split hotswappable 60% keeb.
 
