@@ -1,18 +1,12 @@
-# splitish
-![splitish](https://i.imgur.com/6gnYPIp.jpg)
+# 60wsplit
+60wsplit
 
-A separated 4x12 ortho Kailh Choc keyboard
+A split hotswappable 60% keeb.
 
-Keyboard Maintainer: [Reid Schneyer](https://github.com/RSchneyer)
+Make example for 60wsplit (after setting up your build environment):
 
-Hardware Supported: Splitish PCB, Pro Micro
-
-Hardware Avaiability: [Gerber files](https://github.com/RSchneyer/splitish/tree/master/gerbers)
-
-Make example for splitish (after setting up your build environment):
-
-    make splitish:default
+    make 60wsplit:default
 
 See [build environment setup](https://docs.qmk.fm/install-build-tools) then the [make instructions](https://docs.qmk.fm/faq/build-compile-qmk) for more information.
 
-Please see [RSchneyer/splitish](https://www.github.com/RSchneyer/splitish) for **build instructions**, parts lists, and Gerber files.
+Build instructions are currently not available.
